@@ -34,15 +34,28 @@
 
 ###
 
-<p align="left">Certificado de Proficiência em Inglês – Cambridge English B2 First (FCE)<br>Nível: Intermediário Superior (CEFR B2)<br>Emitido por: Cambridge Assessment English<br>📄[Veja meu certificado](https://drive.google.com/file/d/1FPW72cKOS1R6b0QvKX2F63uE1H5jl55H/view?usp=sharing).</p>
+<p align="left">
+Certificado de Proficiência em Inglês – Cambridge English B2 First (FCE)<br>
+Nível: Intermediário Superior (CEFR B2)<br>
+Emitido por: Cambridge Assessment English<br>
+📄<a href="https://drive.google.com/file/d/1FPW72cKOS1R6b0QvKX2F63uE1H5jl55H/view?usp=sharing" target="_blank">Veja meu certificado</a>.
+</p>
 
 ###
 
-<p align="left">Certificado de Fundamentos do Hardware do Computador<br>Emitido por: ICT SENAC/PE através do programa Cisco Networking Academy.<br>📄[Veja meu certificado](https://drive.google.com/file/d/1KjsdSQX0R09byAddmBmzlOK4XGZZUUCP/view?usp=sharing).</p>
+<p align="left">
+Certificado de Fundamentos do Hardware do Computador<br>
+Emitido por: ICT SENAC/PE através do programa Cisco Networking Academy.<br>
+📄<a href="https://drive.google.com/file/d/1KjsdSQX0R09byAddmBmzlOK4XGZZUUCP/view?usp=sharing" target="_blank">Veja meu certificado</a>.
+</p>
 
 ###
 
-<p align="left">Certificado de Defesa de redes<br>Emitido por: ICT SENAC/PE através do programa Cisco Networking Academy.<br>📄[Veja meu certificado](https://drive.google.com/file/d/1xh1FLdV8aCsXkiHx4Xr-A-rhwqC7CXU9/view?usp=sharing).</p>
+<p align="left">
+Certificado de Defesa de redes<br>
+Emitido por: ICT SENAC/PE através do programa Cisco Networking Academy.<br>
+📄<a href="https://drive.google.com/file/d/1xh1FLdV8aCsXkiHx4Xr-A-rhwqC7CXU9/view?usp=sharing" target="_blank">Veja meu certificado</a>.
+</p>
 
 ###
 
