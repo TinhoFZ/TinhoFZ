@@ -59,6 +59,14 @@ Emitido por: ICT SENAC/PE através do programa Cisco Networking Academy.<br>
 
 ###
 
+<p align="left">
+Certificado de Gerenciamento de ameaças cibernéticas<br>
+Emitido por: ICT SENAC/PE através do programa Cisco Networking Academy.<br>
+📄<a href="https://drive.google.com/file/d/1_WPQDtGRE0Qqw6fOQm5ZUvF8mEdunWz6/view?usp=sharing" target="_blank">Veja meu certificado</a>.
+</p>
+
+###
+
 <h1 align="left">📈Estatísticas</h1>
 
 ###
