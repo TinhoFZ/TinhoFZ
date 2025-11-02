@@ -1,16 +1,16 @@
-<h1 align="left">👋Olá, sou Eduardo!</h1>
+<h1 align="center">👋Olá, sou Eduardo!</h1>
 
 ###
 
-<p align="left"> - Estou no 2° ano do ensino médio, estudando Análise e Desenvolvimento de Sistemas.</p>
+<p align="center">Estou no 2° ano do ensino médio, estudando Análise e Desenvolvimento de Sistemas.</p>
 
 ###
 
-<p align="left"> - Atualmente estudando Java, SQL e desenvolvimento web.</p>
+<p align="center">Atualmente estudando JavaScript, Node e Python.</p>
 
 ###
 
-<p align="left"> - Buscando oportunidades para aplicar e expandir meus conhecimentos.</p>
+<p align="left">Buscando oportunidades para aplicar e expandir meus conhecimentos.</p>
 
 ###
 
@@ -25,7 +25,9 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
 </div>
 
 ###
@@ -34,36 +36,27 @@
 
 ###
 
-<p align="left">
-Certificado de Proficiência em Inglês – Cambridge English B2 First (FCE)<br>
-Nível: Intermediário Superior (CEFR B2)<br>
-Emitido por: Cambridge Assessment English<br>
-📄<a href="https://drive.google.com/file/d/1FPW72cKOS1R6b0QvKX2F63uE1H5jl55H/view?usp=sharing" target="_blank">Veja meu certificado</a>.
-</p>
+<p align="left">Certificado de Proficiência em Inglês – Cambridge English B2 First (FCE)<br>Nível: Intermediário Superior (CEFR B2)<br>Emitido por: Cambridge Assessment English<br>📄[Veja meu certificado](https://drive.google.com/file/d/1FPW72cKOS1R6b0QvKX2F63uE1H5jl55H/view?usp=sharing).</p>
 
 ###
 
-<p align="left">
-Certificado de Fundamentos do Hardware do Computador<br>
-Emitido por: ICT SENAC/PE através do programa Cisco Networking Academy.<br>
-📄<a href="https://drive.google.com/file/d/1KjsdSQX0R09byAddmBmzlOK4XGZZUUCP/view?usp=sharing" target="_blank">Veja meu certificado</a>.
-</p>
+<p align="left">Certificado de Fundamentos do Hardware do Computador<br>Emitido por: ICT SENAC/PE através do programa Cisco Networking Academy.<br>📄[Veja meu certificado](https://drive.google.com/file/d/1KjsdSQX0R09byAddmBmzlOK4XGZZUUCP/view?usp=sharing).</p>
 
 ###
 
-<p align="left">
-Certificado de Defesa de redes<br>
-Emitido por: ICT SENAC/PE através do programa Cisco Networking Academy.<br>
-📄<a href="https://drive.google.com/file/d/1xh1FLdV8aCsXkiHx4Xr-A-rhwqC7CXU9/view?usp=sharing" target="_blank">Veja meu certificado</a>.
-</p>
+<p align="left">Certificado de Defesa de redes<br>Emitido por: ICT SENAC/PE através do programa Cisco Networking Academy.<br>📄[Veja meu certificado](https://drive.google.com/file/d/1xh1FLdV8aCsXkiHx4Xr-A-rhwqC7CXU9/view?usp=sharing).</p>
 
 ###
 
-<p align="left">
-Certificado de Gerenciamento de ameaças cibernéticas<br>
-Emitido por: ICT SENAC/PE através do programa Cisco Networking Academy.<br>
-📄<a href="https://drive.google.com/file/d/1_WPQDtGRE0Qqw6fOQm5ZUvF8mEdunWz6/view?usp=sharing" target="_blank">Veja meu certificado</a>.
-</p>
+<h1 align="left">🚀Projetos atuais</h1>
+
+###
+
+<p align="left">📦Um simples sistema de venda usando java - [MiniSaas](https://github.com/TinhoFZ/miniSaas)</p>
+
+###
+
+<p align="left">🌐Um site para praticar e aprender inglês - [VerbToBe](https://github.com/TinhoFZ/Verb-To-Be)</p>
 
 ###
 
