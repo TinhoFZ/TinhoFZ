@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Buscando oportunidades para aplicar e expandir meus conhecimentos.</p>
+<p align="center">Buscando oportunidades para aplicar e expandir meus conhecimentos.</p>
 
 ###
 
